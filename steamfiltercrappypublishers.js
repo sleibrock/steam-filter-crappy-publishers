@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     Steam Filter Crappy Publishers
-// @version  1
+// @version  2 
 // @author   ste5e
 // @match    https://store.steampowered.com/app/*/*
 // @grant    none
@@ -18,7 +18,7 @@
         "ea": "Do I really need to explain this one?",
         "electronic arts": "Arguably one of the worst publishers in the industry. Profit seeker from console bros; collectively hoards Star Wars licensing, makes terrible microtransaction games, third party launcher. If you hate a shitty gaming trend, this company will revolutionize it into something worse.",
         "ubisoft": "A worse EA.",
-        "paradox interactive": "Has their grubby fingers in many popular game series and forces a ton of third-party launchers, DLCs and sometimes even shitty early access games (Kerbel 2).",
+        "paradox interactive": "Has their grubby fingers in many popular game series and forces a ton of third-party launchers and microtransactions/DLCs. You basically never get a full game.",
         "sony": "Another popular rent-seeking video game owner who makes exclusives, then releases them to PC after years long gaps and charges full price for everything. Still no Bloodborne PC to this day.",
         "playstation publishing llc": "These games are 100% not worth giving Sony money for.",
         "2k": "Remember Borderlands and BioShock? Yeah those days aren't coming back. This company is basically mini-EA. Launchers, DLCs, etc.",
@@ -38,6 +38,8 @@
         "studio wildcard": "If you want to piss off your fanbase, learn some lessons from the makers of ARK and republish your game into something horribly consumer-unfriendly.",
         "warner bros. games": "Don't buy games from a publisher that still does business with J.K. f%cking Rowling of all people.",
         "fromsoftware inc.": "Tencent has a partial stake in From Software since 2022. Sorry guys, have to do it.",
+        "zajum": "Rugged the Disco Elysium developers. Avoid.",
+        "private division": "Layoffs from Kerbal Space Program 2's success.",
     };
     
     console.log("SFCB: I'm here");
